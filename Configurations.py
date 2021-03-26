@@ -1,0 +1,6 @@
+# Azure Configurations
+
+storageaccountname= 'piniondatastore'
+storageaccountkey= 'MHL1ZuYF5YuZKDEwdDITKxZoUoM880oUrppllmyQcF9WS33RHgbOxRgDnqzbhDu4kiNLXE00tMmO1hjYnmgpYA=='
+containername= 'invoices'
+myconnectionstring='DefaultEndpointsProtocol=https;AccountName=piniondatastore;AccountKey=MHL1ZuYF5YuZKDEwdDITKxZoUoM880oUrppllmyQcF9WS33RHgbOxRgDnqzbhDu4kiNLXE00tMmO1hjYnmgpYA==;EndpointSuffix=core.windows.net'
